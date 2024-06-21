@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T07:47:58+08:00</updated><entry><title>cd2024 w17</title><link href="./w17.html" rel="alternate"></link><published>2024-06-14T17:00:00+08:00</published><updated>2024-06-20T07:47:58+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-06-14:./w17.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T08:22:48+08:00</updated><entry><title>About</title><link href="./about.html" rel="alternate"></link><published>2024-06-21T08:20:02+08:00</published><updated>2024-06-21T08:20:02+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-06-21:./about.html</id><content type="html">&lt;h1&gt;cmsimde 內容管理系統&lt;/h1&gt;
+&lt;p&gt;倉儲: &lt;a href="https://github.com/7wei/cd2024"&gt;https://github.com/7wei/cd2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網站: &lt;a href="https://7wei.github.io/cd2024/"&gt;https://7wei.github.io/cd2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;簡報: &lt;a href="https://7wei.github.io/cd2024/reveal"&gt;https://7wei.github.io/cd2024/reveal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網誌: &lt;a href="https://7wei.github.io/cd2024/blog"&gt;https://7wei.github.io/cd2024/blog&lt;/a&gt;&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>cd2024 w17</title><link href="./41123107-w17.html" rel="alternate"></link><published>2024-06-14T17:00:00+08:00</published><updated>2024-06-21T08:22:48+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-06-14:./41123107-w17.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期末報告&lt;/p&gt;
 
 
@@ -8,7 +12,7 @@
 https://docs.google.com/forms/d/e/1FAIpQLSdd4WdqZCfabonlM8jOzdpd3jQl_831C_7qXJBZuL8nOQ5NWA/viewform?fbzx=-8540164705333059603&amp;amp;pli=1
 (重畫很多次:/)(成為youtuber)&lt;/p&gt;
 &lt;p&gt;2.機器人繪圖影片連結: https://youtu.be/wEM6opL-2Uw&lt;/p&gt;
-&lt;p&gt;3.組合影片連結: https://youtu.be/Pb0waZhz8QQ&lt;/p&gt;</content><category term="w17"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w15</title><link href="./w15.html" rel="alternate"></link><published>2024-05-31T17:00:00+08:00</published><updated>2024-06-07T06:45:56+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-31:./w15.html</id><summary type="html">&lt;p&gt;給影片上中英文字幕,上傳至小組&lt;/p&gt;
+&lt;p&gt;3.組合影片連結: https://youtu.be/Pb0waZhz8QQ&lt;/p&gt;</content><category term="w17"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w15</title><link href="./41123107-w15.html" rel="alternate"></link><published>2024-05-31T17:00:00+08:00</published><updated>2024-06-21T08:22:46+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-31:./41123107-w15.html</id><summary type="html">&lt;p&gt;給影片上中英文字幕,上傳至小組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;給影片上中英文字幕,上傳至小組&lt;/p&gt;
 
 
@@ -272,32 +276,32 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w15"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w14</title><link href="./w14.html" rel="alternate"></link><published>2024-05-24T17:00:00+08:00</published><updated>2024-06-07T08:29:43+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-24:./w14.html</id><summary type="html">&lt;p&gt;繪畫零件圖,上傳至小組&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w15"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w14</title><link href="./41123107-w14.html" rel="alternate"></link><published>2024-05-24T17:00:00+08:00</published><updated>2024-06-21T08:22:43+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-24:./41123107-w14.html</id><summary type="html">&lt;p&gt;繪畫零件圖,上傳至小組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;繪畫零件圖,上傳至小組&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.繼續繪圖&lt;/p&gt;
-&lt;p&gt;2.聽組長的話&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w13</title><link href="./w13.html" rel="alternate"></link><published>2024-05-17T17:00:00+08:00</published><updated>2024-06-07T08:22:26+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-17:./w13.html</id><summary type="html">&lt;p&gt;使用NX製圖，組合零件並模擬&lt;/p&gt;
+&lt;p&gt;2.聽組長的話&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w13</title><link href="./41123107-w13.html" rel="alternate"></link><published>2024-05-17T17:00:00+08:00</published><updated>2024-06-21T08:22:40+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-17:./41123107-w13.html</id><summary type="html">&lt;p&gt;使用NX製圖，組合零件並模擬&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;使用NX製圖，組合零件並模擬&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.NX繪製零件&lt;/p&gt;
 &lt;p&gt;2.轉STL組合後在Inventor進行組裝後，進行CoppeliaSim模擬。&lt;/p&gt;
-&lt;p&gt;3.錄製繪圖影片&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w12</title><link href="./w12.html" rel="alternate"></link><published>2024-05-10T17:00:00+08:00</published><updated>2024-06-07T08:08:32+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-10:./w12.html</id><summary type="html">&lt;p&gt;NX製圖&lt;/p&gt;
+&lt;p&gt;3.錄製繪圖影片&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w12</title><link href="./41123107-w12.html" rel="alternate"></link><published>2024-05-10T17:00:00+08:00</published><updated>2024-06-21T08:22:38+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-10:./41123107-w12.html</id><summary type="html">&lt;p&gt;NX製圖&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;NX製圖&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.下載SolveSpace開啟檔案，學習使用NX繪圖。&lt;/p&gt;
-&lt;p&gt;2.將個人分支建立成子模組同整到老師的倉儲。&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w11</title><link href="./w11.html" rel="alternate"></link><published>2024-05-03T17:00:00+08:00</published><updated>2024-06-07T07:37:00+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-03:./w11.html</id><summary type="html">&lt;p&gt;NX製圖&lt;/p&gt;
+&lt;p&gt;2.將個人分支建立成子模組同整到老師的倉儲。&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w11</title><link href="./41123107-w11.html" rel="alternate"></link><published>2024-05-03T17:00:00+08:00</published><updated>2024-06-21T08:22:31+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-05-03:./41123107-w11.html</id><summary type="html">&lt;p&gt;NX製圖&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;NX製圖&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.利用NX完成零件製圖&lt;/p&gt;
-&lt;p&gt;2.完成各周指定任務&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w10</title><link href="./w10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-06-07T06:58:46+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-04-26:./w10.html</id><summary type="html">&lt;p&gt;維護分組倉儲、完成任務&lt;/p&gt;
+&lt;p&gt;2.完成各周指定任務&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w10</title><link href="./41123107-w10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-06-21T08:22:28+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-04-26:./41123107-w10.html</id><summary type="html">&lt;p&gt;維護分組倉儲、完成任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;維護分組倉儲、完成任務&lt;/p&gt;
 
 
@@ -328,54 +332,50 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;p&gt;使用 QUARC 軟體設計和實現球體在二維平台上的位置控制。 設計 PD 和 PID 控制器，並探討設定點權重和積分器抗飽和等控制技術。 使用攝像頭讀取球體位置，並進行校準和轉換。&lt;/p&gt;
 &lt;p&gt;結論：&lt;/p&gt;
 &lt;p&gt;PD 和 PID 控制器均能實現球體位置控制，但 PID 控制器在跟踪斜坡和正弦參考信號時具有更好的性能。 該實驗涵蓋了建模、控制器設計、模擬和實施等多個控制系統的關鍵步驟，為學生提供了寶貴的學習經驗。&lt;/p&gt;
-&lt;p&gt;接下來, 必須要設法了解, 哪一篇或哪幾篇論文對我們解決下列問題最有參考價值!&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w9</title><link href="./w9.html" rel="alternate"></link><published>2024-04-19T17:00:00+08:00</published><updated>2024-06-07T06:51:07+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-04-19:./w9.html</id><summary type="html">&lt;p&gt;期中考周!!&lt;/p&gt;
+&lt;p&gt;接下來, 必須要設法了解, 哪一篇或哪幾篇論文對我們解決下列問題最有參考價值!&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w9</title><link href="./41123107-w9.html" rel="alternate"></link><published>2024-04-19T17:00:00+08:00</published><updated>2024-06-21T08:22:23+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-04-19:./41123107-w9.html</id><summary type="html">&lt;p&gt;期中考周!!&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中考周!!&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
-&lt;p&gt;1.其中自評&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w8</title><link href="./w8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-06-07T06:47:00+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-04-12:./w8.html</id><summary type="html">&lt;p&gt;清明連假收心~&lt;/p&gt;
+&lt;p&gt;1.其中自評&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w8</title><link href="./41123107-w8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-06-21T08:22:21+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-04-12:./41123107-w8.html</id><summary type="html">&lt;p&gt;清明連假收心~&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;清明連假收心~&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.連假回來複習之前上的東西&lt;/p&gt;
-&lt;p&gt;2.透過ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助解決問題&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w6</title><link href="./w6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-06-07T06:36:53+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-29:./w6.html</id><summary type="html">&lt;p&gt;網誌整理&lt;/p&gt;
+&lt;p&gt;2.透過ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助解決問題&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w6</title><link href="./41123107-w6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-06-21T08:22:12+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-29:./41123107-w6.html</id><summary type="html">&lt;p&gt;網誌整理&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網誌整理&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.更新個人倉儲&lt;/p&gt;
-&lt;p&gt;2.寫日誌&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w5</title><link href="./w5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-06-07T06:32:09+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-22:./w5.html</id><summary type="html">&lt;p&gt;給影片上中英文字幕&lt;/p&gt;
+&lt;p&gt;2.寫日誌&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w5</title><link href="./41123107-w5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-06-21T08:22:08+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-22:./41123107-w5.html</id><summary type="html">&lt;p&gt;給影片上中英文字幕&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;給影片上中英文字幕&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.翻譯影片，但檔案消失了(落淚&lt;/p&gt;
-&lt;p&gt;2.組長建立midag分組，利用codespaces來進行同步更新&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w4</title><link href="./w4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-06-07T06:05:42+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-15:./w4.html</id><summary type="html">&lt;p&gt;給影片上中英文字幕&lt;/p&gt;
+&lt;p&gt;2.組長建立midag分組，利用codespaces來進行同步更新&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w4</title><link href="./41123107-w4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-06-21T08:22:05+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-15:./41123107-w4.html</id><summary type="html">&lt;p&gt;給影片上中英文字幕&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;給影片上中英文字幕&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.翻譯影片並上傳至OneDrive
 帳號:https://nfuedu-my.sharepoint.com/personal/41123107_nfu_edu_tw/_layouts/15/onedrive.aspx?view=0&lt;/p&gt;
-&lt;p&gt;2.統整影片給組長&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w3</title><link href="./w3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-05-31T08:54:46+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-08:./w3.html</id><summary type="html">&lt;p&gt;加入小組子模組，翻譯影片&lt;/p&gt;
+&lt;p&gt;2.統整影片給組長&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w3</title><link href="./41123107-w3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-06-21T08:22:02+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-08:./41123107-w3.html</id><summary type="html">&lt;p&gt;加入小組子模組，翻譯影片&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;加入小組子模組，翻譯影片&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.利用威力導演上字幕，每個人分配1~2部&lt;/p&gt;
-&lt;p&gt;2.加入子模組&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w2</title><link href="./w2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-05-31T08:05:07+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-01:./w2.html</id><summary type="html">&lt;p&gt;加入組別(第四組)&lt;/p&gt;
+&lt;p&gt;2.加入子模組&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w2</title><link href="./41123107-w2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-06-21T08:21:58+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-01:./41123107-w2.html</id><summary type="html">&lt;p&gt;加入組別(第四組)&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;加入組別(第四組)&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統2&lt;/h1&gt;
 &lt;p&gt;1.組別:第四組 2a-midag4&lt;/p&gt;
 &lt;p&gt;2.成員:41123102、41123107、41123111、41123114、41123115、41123117、41123126、41123128&lt;/p&gt;
-&lt;p&gt;3.建立github組別&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>About</title><link href="./about.html" rel="alternate"></link><published>2024-03-01T08:53:57+08:00</published><updated>2024-03-01T08:53:57+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-03-01:./about.html</id><content type="html">&lt;h1&gt;cmsimde 內容管理系統&lt;/h1&gt;
-&lt;p&gt;倉儲: &lt;a href="https://github.com/7wei/cd2024"&gt;https://github.com/7wei/cd2024&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;網站: &lt;a href="https://7wei.github.io/cd2024/"&gt;https://7wei.github.io/cd2024&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;簡報: &lt;a href="https://7wei.github.io/cd2024/reveal"&gt;https://7wei.github.io/cd2024/reveal&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;網誌: &lt;a href="https://7wei.github.io/cd2024/blog"&gt;https://7wei.github.io/cd2024/blog&lt;/a&gt;&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>cd2024 w1</title><link href="./w1.html" rel="alternate"></link><published>2024-02-23T17:00:00+08:00</published><updated>2024-03-15T08:43:51+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-02-23:./w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;3.建立github組別&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>cd2024 w1</title><link href="./41123107-w1.html" rel="alternate"></link><published>2024-02-23T17:00:00+08:00</published><updated>2024-06-21T08:21:47+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-02-23:./41123107-w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
